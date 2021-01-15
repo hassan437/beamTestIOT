@@ -1,4 +1,4 @@
-package com.ammars.core
+package com.github.core
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

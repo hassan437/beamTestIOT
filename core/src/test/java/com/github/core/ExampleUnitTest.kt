@@ -1,4 +1,4 @@
-package com.ammars.core
+package com.github.core
 
 import org.junit.Test
 
