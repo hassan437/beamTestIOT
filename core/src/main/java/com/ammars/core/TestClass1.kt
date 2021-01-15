@@ -1,14 +1,11 @@
-package com.beam.core
+package com.ammars.core
 
 import android.content.Context
 import android.widget.Toast
 
+class TestClass1 {
 
-
-
-class TestClass {
-
-    fun showToast(c: Context?, message: String?) {
+    fun showToast1(c: Context?, message: String?) {
         Toast.makeText(c, message, Toast.LENGTH_SHORT).show()
     }
 }

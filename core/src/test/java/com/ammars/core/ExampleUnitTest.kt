@@ -1,4 +1,4 @@
-package com.beam.core
+package com.ammars.core
 
 import org.junit.Test
 

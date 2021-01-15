@@ -1,4 +1,4 @@
-package com.beam.core
+package com.ammars.core
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

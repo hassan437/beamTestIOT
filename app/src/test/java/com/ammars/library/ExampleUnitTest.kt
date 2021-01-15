@@ -1,4 +1,4 @@
-package com.beam.library
+package com.ammars.library
 
 import org.junit.Test
 
