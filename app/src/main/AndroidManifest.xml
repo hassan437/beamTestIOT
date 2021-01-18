@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BeamLibrary">
-        <activity android:name="com.github.hassan437.MainActivity">
+        <activity android:name="com.github.hassan437.com.ammars.hassan437.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
